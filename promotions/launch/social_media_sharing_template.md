@@ -1,6 +1,8 @@
 
 ## Short social media posts:
 
+Download the poster image [here](https://raw.githubusercontent.com/Zer0Camp/resources/main/promotions/launch/zerocamp_flyer.png)
+
 #### Variant 1:
 
 ZeroCamp: Free, fully online coding bootcamp for beginners. Learn full-stack development, get mentorship, and build your portfolio. Apply now and start your journey to a career in tech!
@@ -46,6 +48,10 @@ Learn more: https://github.com/Zer0Camp/.github/blob/main/profile/README.md
 Apply here: https://forms.gle/3EWNvjFyh5F1PrAG9
 
 ---
+
+Download the poster image [here](https://raw.githubusercontent.com/Zer0Camp/resources/main/promotions/launch/zerocamp_flyer.png)
+
+---
 ## Posters’ content:
 
 Title: Zerocamp
@@ -65,4 +71,8 @@ Bullet Points:
 - Weekly mentoring calls
 - Open curriculum to guide you through your learning journey
 - Job interview preparation support
+
+## Flyer Image
+
+![Zerocamp Flyer](https://raw.githubusercontent.com/Zer0Camp/resources/main/promotions/launch/zerocamp_flyer.png)
 
